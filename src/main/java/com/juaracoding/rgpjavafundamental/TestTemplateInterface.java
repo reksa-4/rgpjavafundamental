@@ -12,6 +12,4 @@ Version 1.0
 */
 
 public interface TestTemplateInterface {
-    public static void main(String[] args) {
-    }
 }
