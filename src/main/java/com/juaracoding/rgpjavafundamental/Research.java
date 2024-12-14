@@ -10,7 +10,6 @@ Created on 14/12/2024 10:12
 Version 1.0
 */
 
-
 public class Research {
     public static void main(String[] args) {
 
@@ -89,13 +88,13 @@ public class Research {
 //        panjang = sn.nextInt();
 //        System.out.println(panjang);
 
-//        int intLoop = 0;
-//
-//        for (int i = 0; i < 5; i++ ){
-//                intLoop++;
-//                continue;
-//        }
-//        System.out.println(intLoop);
+        int intLoop = 0;
+
+        for (int i = 0; i < 5; i++ ){
+                intLoop++;
+                continue;
+        }
+        System.out.println(intLoop);
 
 //        int intChoose = 3; intChoose = 2;
 //
@@ -135,13 +134,13 @@ public class Research {
 //            System.out.println("Random Number "+i+" -> "+rand.nextInt(70,100));
 //        }
 
-        int intLoop = 0;
-        boolean isGood = true;
-        do {
-                intLoop++;
-                continue;
-        }while (!isGood);
-        System.out.println(intLoop);
+//        int intLoop = 0;
+//        boolean isGood = true;
+//        do {
+//                intLoop++;
+//                continue;
+//        }while (!isGood);
+//        System.out.println(intLoop);
 
     }
 }
