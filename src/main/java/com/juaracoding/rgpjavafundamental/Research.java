@@ -75,26 +75,26 @@ public class Research {
 //        String strThird="Welcome";
 //        System.out.println(strThird.substring(1,5));
 
-//        String strSambung = "8" + 3;
-//        System.out.println(strSambung);
+        String strSambung = "8" + 3;
+        System.out.println(strSambung);
 
-//        String a = "TEA";
-//        String b = "TOE";
-//
-//        System.out.println(b.compareTo(a))  ;
+        String a = "TEA";
+        String b = "TOE";
+
+        System.out.println(b.compareTo(a))  ;
 
 //        int panjang = 0;
 //        Scanner sn = new Scanner(System.in);
 //        panjang = sn.nextInt();
 //        System.out.println(panjang);
 
-        int intLoop = 0;
-
-        for (int i = 0; i < 5; i++ ){
-                intLoop++;
-                continue;
-        }
-        System.out.println(intLoop);
+//        int intLoop = 0;
+//
+//        for (int i = 0; i < 5; i++ ){
+//                intLoop++;
+//                continue;
+//        }
+//        System.out.println(intLoop);
 
 //        int intChoose = 3; intChoose = 2;
 //
