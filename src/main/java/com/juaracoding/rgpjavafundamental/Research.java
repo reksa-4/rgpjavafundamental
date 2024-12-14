@@ -10,7 +10,6 @@ Created on 14/12/2024 10:12
 Version 1.0
 */
 
-import java.util.*;
 
 public class Research {
     public static void main(String[] args) {
