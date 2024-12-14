@@ -23,14 +23,14 @@ public class Praktikum1 {
 
         // Meminta pengguna untuk memasukkan kata atau kalimat
         System.out.print("Masukkan Kata : ");
-        String inputKata = scanner.nextLine();  // Membaca input dari pengguna
+        String strInputKata = scanner.nextLine();  // Membaca input dari pengguna
 
         // Variabel untuk menyimpan total hasil penjumlahan nilai ASCII
         int outputTotalASCII= 0;
 
         // Proses untuk setiap karakter dalam input
-        for (int i = 0; i < inputKata.length(); i++) {
-            char c = inputKata.charAt(i);  // Mengambil karakter satu per satu
+        for (int i = 0; i < strInputKata.length(); i++) {
+            char c = strInputKata.charAt(i);  // Mengambil karakter satu per satu
 
             // Menampilkan karakter dan nilai ASCII-nya
             // System.out.println("Karakter : " + c + " - ASCII : " + (int)c);
