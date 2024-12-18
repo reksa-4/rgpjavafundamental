@@ -1,4 +1,4 @@
-package com.juaracoding.rgpjavafundamental;
+package com.juaracoding.rgpjavafundamental.testharian;
 
 /*
 IntelliJ IDEA 2024.3.1 (Community Edition)
